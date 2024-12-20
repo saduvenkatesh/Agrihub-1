@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background:rgb(39, 37, 37);
+    margin-top: 0px;
+    
+}
+
+
+
+.farm-landimg{
+    border-radius: 50%;
+}
+
+.nav-list{
+    display: flex;
+    list-style: none;
+   
+}
+
+.nav-list-item{
+    margin-right: 30px;
+    padding: 10px;
+    border: 10px;
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover{
+    color: red;
+    background-color: aliceblue;
+    border-radius: 40%;
+}
