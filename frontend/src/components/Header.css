@@ -2,13 +2,14 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    /* background:rgb(39, 37, 37); */
+    /* background:rgb(39, 37, 37) */
     margin-top: 0px;
 }
 
 h1{
     color: red;
     margin-left: 0px;
+
 }
 
 h1:hover{
